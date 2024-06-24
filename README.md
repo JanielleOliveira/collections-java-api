@@ -1,4 +1,4 @@
-# CONHECENDO COLLECTIONS JAVA 
+# CONHECENDO COLLECTIONS JAVA - DIO 
 
 # List:
 - List Interface
@@ -17,3 +17,17 @@
 
 - Ordenação List: testando os métodos
 
+# Set:
+- Set Interface
+
+- Operações Básicas Set
+
+- Operações Básicas Set: testando os métodos
+
+- Pesquisa Set
+
+- Pesquisa Set: testando os métodos
+
+- Ordenação Set
+
+- Ordenação Set: testando os métodos
