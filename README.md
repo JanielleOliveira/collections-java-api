@@ -1,6 +1,6 @@
 # CONHECENDO COLLECTIONS JAVA - DIO 
 
-# List:
+# List :
 - List Interface
 
 - Hands On: Iniciando o projeto e enviando para o GitHub
@@ -17,7 +17,7 @@
 
 - Ordenação List: testando os métodos
 
-# Set:
+# Set :
 - Set Interface
 
 - Operações Básicas Set
@@ -31,3 +31,20 @@
 - Ordenação Set
 
 - Ordenação Set: testando os métodos
+
+# Map :
+- Map Interface
+
+- Operações Básicas Map
+
+- Operações Básicas Map: testando os métodos
+
+- Pesquisa Map
+
+- Pesquisa Map - testando os métodos
+
+- Ordenação Map
+
+- Ordenação Map - testando os métodos
+
+- Pesquisa Ordenação - testando os métodos
